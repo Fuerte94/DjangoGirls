@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = ')523j9(90t*#h7e0f@39a(4z4=tyfy0=_1-)zq1zgnpk+ro+o^'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['syrtus.pythonanywhere.com', '127.0.0.1']
 
